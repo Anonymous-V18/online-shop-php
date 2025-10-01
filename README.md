@@ -4,6 +4,7 @@
 
 -   Theo yêu cầu của giảng viên
 -   Sử dụng version mới nhất cho các package
+-   Cài thêm package `composer`
 
 ## Cách run project
 
